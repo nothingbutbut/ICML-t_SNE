@@ -1,1 +1,1 @@
-# ICML-t_SNE
+# t-SNE Visualization
